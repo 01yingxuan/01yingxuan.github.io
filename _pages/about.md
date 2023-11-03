@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 
-I’m Yinxuan Long, a first-year graduate student at the University of Chinese Academy of Sciences. My academic journey is fueled by a profound passion for Signal and Information Processing. I believe that this field is at the forefront of technological innovation, and I am excited to explore the infinite possibilities it offers.
+I’m Yingxuan Long, a first-year graduate student at the University of Chinese Academy of Sciences. My academic journey is fueled by a profound passion for Signal and Information Processing. I believe that this field is at the forefront of technological innovation, and I am excited to explore the infinite possibilities it offers.
 
 Academic Pursuits
 
